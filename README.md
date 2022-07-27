@@ -1,4 +1,4 @@
-# my1stRepo
+# ImgConvertio
 
 ImgConvertio is my very first public repository in github. It is a platform in which we are going to append certain image conversion techniques with the best quality image.
 
